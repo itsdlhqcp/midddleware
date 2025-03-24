@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+openai
+nltk
+torch
+torchaudio
+transformers
+gtts
+pydantic
